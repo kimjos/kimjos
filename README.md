@@ -1,16 +1,33 @@
 ### Hi there 👋
+# Joseph Kuria
 
-<!--
-**kimjos/kimjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Security | Web Development | IT Enthusiast 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate and versatile in the realms of Cyber Security and Web Development. A committed learner, exploring the intersections of IT support, system administration, and innovative projects.
+
+## Skills
+
+- **Web Development:**
+  - HTML, CSS, JavaScript, React.js
+- **Data Annotation:**
+  - Text Annotation, Sentiment Analysis, Image Annotation (2D and 3D)
+- **Version Control:**
+  - Git
+- **Frontend Frameworks:**
+  - Bootstrap, Material-UI
+- **API Integration:**
+  - RESTful APIs, GraphQL
+- **Code Quality and Testing:**
+  - Unit Testing, Code Reviews
+- **Communication and Interpersonal:**
+  - Creative, Problem Solver, Team Player
+
+## Contact
+
+Feel free to reach out via email at [Josephkimani500@gmail.com](mailto:Josephkimani500@gmail.com)
+
+Let's code for a secure and innovative future! 👨‍💻✨
+
+
