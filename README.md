@@ -5,16 +5,8 @@ Cyber Security | Web Development | IT Enthusiast 🚀
 
 ## About Me
 
-Passionate and versatile in the realms of Cyber Security and Web Development. A committed learner, exploring the intersections of IT support, system administration, and innovative projects.
-
-## Technology Stack
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- React.js
-- Git
+Passionate and versatile in the realms of Cyber Security and Web Development. 
+A committed learner, exploring the intersections of IT support, system administration, and innovative projects.
 
 
 ---
