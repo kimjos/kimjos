@@ -23,7 +23,7 @@ A committed learner, exploring the intersections of IT support, system administr
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimjos&show_icons=true&locale=en&layout=compact" alt="kimjos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimjos&" alt="kimjos" /></p>
+
 
 
 Let's code for a secure and innovative future! 👨‍💻✨
