@@ -24,9 +24,6 @@ Passionate and versatile in the realms of Cyber Security and Web Development. A 
 - **Communication and Interpersonal:**
   - Creative, Problem Solver, Team Player
 
-## Contact
-
-Feel free to reach out via email at [Josephkimani500@gmail.com](mailto:Josephkimani500@gmail.com)
 
 Let's code for a secure and innovative future! 👨‍💻✨
 
